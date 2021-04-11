@@ -27,4 +27,3 @@ sudo apt-get install libsoil-dev <br>
 - Reshape<br>
 
 - Inimigos vão ficando mais devagar quando em menor número<br>
-<h2>Imagens utilizadas</h2>
