@@ -24,11 +24,7 @@ SOIL: <br>
 sudo apt-get install libsoil-dev <br> 
 
 <h2>Lista de itens adicionais implementados em seu jogo</h2>
-- Vidas<br>
-- Sons<br>
-- Telas<br>
-- Fundo lindão<br>
-- Fases infinitas<br>
-- Aleatoridade no tiro dos inimigos<br>
+- Reshape<br>
+
 - Inimigos vão ficando mais devagar quando em menor número<br>
 <h2>Imagens utilizadas</h2>
