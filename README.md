@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/72466642/114290429-19769980-9a56-11eb-8ce5-ffb1c46d828c.mp4
-
 # TP2-CG-2020/2
 
 <h2>Integrantes do grupo:</h2>
@@ -18,8 +15,6 @@ Está muito mais completo.
 
  
 <h2>Bibliotecas Utilizadas:</h2>
-
-https://user-images.githubusercontent.com/72466642/114290411-f8ae4400-9a55-11eb-83e8-8bd8d55ebba6.mp4
 
 
 SOIL: <br> 
@@ -46,6 +41,4 @@ sudo apt-get install libsoil-dev <br>
 <h2>Vídeo da cena</h2>
 
 https://www.youtube.com/watch?v=FQT6fK4PcC4
-
-
 
