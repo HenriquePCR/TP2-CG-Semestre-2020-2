@@ -26,7 +26,8 @@ sudo apt-get install libsoil-dev <br>
 <h2>Lista de itens adicionais implementados em seu jogo</h2>
 
 - Reshape<br>
-- Câmera rotacionando e dando zoom<br>
+- Câmera rotacionando (utilize seta para esquerda e direita < >)<br>
+- Zoom ( aperta R para dar zoom e r para diminuir o zoom)<br>
 
 
 <h2>Imagens utilizadas</h2>
