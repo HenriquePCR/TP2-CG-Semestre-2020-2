@@ -24,6 +24,5 @@ SOIL: <br>
 sudo apt-get install libsoil-dev <br> 
 
 <h2>Lista de itens adicionais implementados em seu jogo</h2>
-- Reshape<br>
 
-- Inimigos vão ficando mais devagar quando em menor número<br>
+- Reshape<br>
