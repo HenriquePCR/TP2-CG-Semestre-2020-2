@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/72466642/114290429-19769980-9a56-11eb-8ce5-ffb1c46d828c.mp4
+
 # TP2-CG-2020/2
 
 <h2>Integrantes do grupo:</h2>
@@ -40,7 +43,9 @@ sudo apt-get install libsoil-dev <br>
 ![444444444444](https://user-images.githubusercontent.com/61595029/114289917-ea5e2900-9a51-11eb-9760-9bd724589a44.png)
 
 
-<h2>Vídeo do jogo</h2>
+<h2>Vídeo da cena</h2>
+
+https://www.youtube.com/watch?v=FQT6fK4PcC4
 
 
 
