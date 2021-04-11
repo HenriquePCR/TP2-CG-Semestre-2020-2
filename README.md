@@ -1,13 +1,8 @@
 # TP2-CG-2020/2
- cena
- 
- 
- <h1> SpaceX </h1>
- 
+
 <h2>Integrantes do grupo:</h2>
 Henrique Pereira Cristófaro<br>
 Vitor Theodoro Rocha Domingues<br>
-<p>Jefferson Costa Lima Silva</p>
 
 <h2>Instruções para a compilação e execução</h2>
 
