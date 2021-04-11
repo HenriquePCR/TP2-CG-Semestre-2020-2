@@ -26,3 +26,15 @@ sudo apt-get install libsoil-dev <br>
 <h2>Lista de itens adicionais implementados em seu jogo</h2>
 
 - Reshape<br>
+
+
+
+![1111111111111111](https://user-images.githubusercontent.com/61595029/114289873-aff48c00-9a51-11eb-83a7-caa18f14e4dd.png)
+
+![2222222222](https://user-images.githubusercontent.com/61595029/114289876-b256e600-9a51-11eb-9ada-cba1b02916bc.png)
+
+![3333333333](https://user-images.githubusercontent.com/61595029/114289914-e6caa200-9a51-11eb-8671-b82abe671bed.png)
+
+![444444444444](https://user-images.githubusercontent.com/61595029/114289917-ea5e2900-9a51-11eb-9760-9bd724589a44.png)
+
+
